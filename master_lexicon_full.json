@@ -1,0 +1,6902 @@
+[
+  {
+    "id": 1,
+    "word": "Abstraction",
+    "letter": "A",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "abstraction is a key concept in tech.",
+    "example": "\"abstraction is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "Agile",
+    "letter": "A",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "agile is a key concept in tech.",
+    "example": "\"agile is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 3,
+    "word": "Api",
+    "letter": "A",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "api is a key concept in tech.",
+    "example": "\"api is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 4,
+    "word": "Architecture",
+    "letter": "A",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "architecture is a key concept in tech.",
+    "example": "\"architecture is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 5,
+    "word": "Array",
+    "letter": "A",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "array is a key concept in tech.",
+    "example": "\"array is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 6,
+    "word": "Artificial Intelligence",
+    "letter": "A",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "artificial intelligence is a key concept in tech.",
+    "example": "\"artificial intelligence is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 7,
+    "word": "Automation",
+    "letter": "A",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "automation is a key concept in tech.",
+    "example": "\"automation is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 8,
+    "word": "Backpropagation",
+    "letter": "B",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "backpropagation is a key concept in tech.",
+    "example": "\"backpropagation is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 9,
+    "word": "Bit",
+    "letter": "B",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "bit is a key concept in tech.",
+    "example": "\"bit is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "Boolean",
+    "letter": "B",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "boolean is a key concept in tech.",
+    "example": "\"boolean is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 11,
+    "word": "Bytecode",
+    "letter": "B",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "bytecode is a key concept in tech.",
+    "example": "\"bytecode is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 12,
+    "word": "Checksum",
+    "letter": "C",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "checksum is a key concept in tech.",
+    "example": "\"checksum is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 13,
+    "word": "Cloud Computing",
+    "letter": "C",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "cloud computing is a key concept in tech.",
+    "example": "\"cloud computing is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 14,
+    "word": "Containerization",
+    "letter": "C",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "containerization is a key concept in tech.",
+    "example": "\"containerization is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 15,
+    "word": "Continuous Integration",
+    "letter": "C",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "continuous integration is a key concept in tech.",
+    "example": "\"continuous integration is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 16,
+    "word": "Cryptography",
+    "letter": "C",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "cryptography is a key concept in tech.",
+    "example": "\"cryptography is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "Data Structure",
+    "letter": "D",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "data structure is a key concept in tech.",
+    "example": "\"data structure is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 18,
+    "word": "Debugging",
+    "letter": "D",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "debugging is a key concept in tech.",
+    "example": "\"debugging is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 19,
+    "word": "Deployment",
+    "letter": "D",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "deployment is a key concept in tech.",
+    "example": "\"deployment is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "Distributed System",
+    "letter": "D",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "distributed system is a key concept in tech.",
+    "example": "\"distributed system is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 21,
+    "word": "Docker",
+    "letter": "D",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "docker is a key concept in tech.",
+    "example": "\"docker is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "Dynamic Programming",
+    "letter": "D",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "dynamic programming is a key concept in tech.",
+    "example": "\"dynamic programming is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "Encapsulation",
+    "letter": "E",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "encapsulation is a key concept in tech.",
+    "example": "\"encapsulation is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "Endpoint",
+    "letter": "E",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "endpoint is a key concept in tech.",
+    "example": "\"endpoint is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "Fibonacci",
+    "letter": "F",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "fibonacci is a key concept in tech.",
+    "example": "\"fibonacci is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "Floating Point",
+    "letter": "F",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "floating point is a key concept in tech.",
+    "example": "\"floating point is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 27,
+    "word": "Garbage Collection",
+    "letter": "G",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "garbage collection is a key concept in tech.",
+    "example": "\"garbage collection is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "Hash",
+    "letter": "H",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "hash is a key concept in tech.",
+    "example": "\"hash is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "Immutable",
+    "letter": "I",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "immutable is a key concept in tech.",
+    "example": "\"immutable is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "Index",
+    "letter": "I",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "index is a key concept in tech.",
+    "example": "\"index is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 31,
+    "word": "Inheritance",
+    "letter": "I",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "inheritance is a key concept in tech.",
+    "example": "\"inheritance is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "Integer Overflow",
+    "letter": "I",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "integer overflow is a key concept in tech.",
+    "example": "\"integer overflow is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "Interpreter",
+    "letter": "I",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "interpreter is a key concept in tech.",
+    "example": "\"interpreter is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "Lambda",
+    "letter": "L",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "lambda is a key concept in tech.",
+    "example": "\"lambda is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 35,
+    "word": "Linked List",
+    "letter": "L",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "linked list is a key concept in tech.",
+    "example": "\"linked list is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 36,
+    "word": "Machine Learning",
+    "letter": "M",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "machine learning is a key concept in tech.",
+    "example": "\"machine learning is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "Microservice",
+    "letter": "M",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "microservice is a key concept in tech.",
+    "example": "\"microservice is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 38,
+    "word": "Monolith",
+    "letter": "M",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "monolith is a key concept in tech.",
+    "example": "\"monolith is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "Mutex",
+    "letter": "M",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "mutex is a key concept in tech.",
+    "example": "\"mutex is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "Namespace",
+    "letter": "N",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "namespace is a key concept in tech.",
+    "example": "\"namespace is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "Neural Network",
+    "letter": "N",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "neural network is a key concept in tech.",
+    "example": "\"neural network is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "Null",
+    "letter": "N",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "null is a key concept in tech.",
+    "example": "\"null is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "Open Source",
+    "letter": "O",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "open source is a key concept in tech.",
+    "example": "\"open source is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "Packet",
+    "letter": "P",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "packet is a key concept in tech.",
+    "example": "\"packet is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "Pagination",
+    "letter": "P",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "pagination is a key concept in tech.",
+    "example": "\"pagination is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "Parsing",
+    "letter": "P",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "parsing is a key concept in tech.",
+    "example": "\"parsing is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 47,
+    "word": "Pipeline",
+    "letter": "P",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "pipeline is a key concept in tech.",
+    "example": "\"pipeline is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "Pointer",
+    "letter": "P",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "pointer is a key concept in tech.",
+    "example": "\"pointer is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 49,
+    "word": "Queue",
+    "letter": "Q",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "queue is a key concept in tech.",
+    "example": "\"queue is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 50,
+    "word": "Refactoring",
+    "letter": "R",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "refactoring is a key concept in tech.",
+    "example": "\"refactoring is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 51,
+    "word": "Regex",
+    "letter": "R",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "regex is a key concept in tech.",
+    "example": "\"regex is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "Rendering",
+    "letter": "R",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "rendering is a key concept in tech.",
+    "example": "\"rendering is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 53,
+    "word": "Rest",
+    "letter": "R",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "rest is a key concept in tech.",
+    "example": "\"rest is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 54,
+    "word": "Sandbox",
+    "letter": "S",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "sandbox is a key concept in tech.",
+    "example": "\"sandbox is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 55,
+    "word": "Serialization",
+    "letter": "S",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "serialization is a key concept in tech.",
+    "example": "\"serialization is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 56,
+    "word": "Socket",
+    "letter": "S",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "socket is a key concept in tech.",
+    "example": "\"socket is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 57,
+    "word": "Stack",
+    "letter": "S",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "stack is a key concept in tech.",
+    "example": "\"stack is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 58,
+    "word": "State Machine",
+    "letter": "S",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "state machine is a key concept in tech.",
+    "example": "\"state machine is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 59,
+    "word": "Stream",
+    "letter": "S",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "stream is a key concept in tech.",
+    "example": "\"stream is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 60,
+    "word": "String",
+    "letter": "S",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "string is a key concept in tech.",
+    "example": "\"string is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 61,
+    "word": "Thread",
+    "letter": "T",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "thread is a key concept in tech.",
+    "example": "\"thread is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 62,
+    "word": "Type System",
+    "letter": "T",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "type system is a key concept in tech.",
+    "example": "\"type system is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 63,
+    "word": "Unit Test",
+    "letter": "U",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "unit test is a key concept in tech.",
+    "example": "\"unit test is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 64,
+    "word": "Version Control",
+    "letter": "V",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "version control is a key concept in tech.",
+    "example": "\"version control is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 65,
+    "word": "Webhook",
+    "letter": "W",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "webhook is a key concept in tech.",
+    "example": "\"webhook is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 66,
+    "word": "Websocket",
+    "letter": "W",
+    "category": "Tech",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in tech.",
+    "full": "websocket is a key concept in tech.",
+    "example": "\"websocket is widely discussed in tech.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 67,
+    "word": "Absorption",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "absorption is a key concept in science.",
+    "example": "\"absorption is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 68,
+    "word": "Adaptation",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "adaptation is a key concept in science.",
+    "example": "\"adaptation is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 69,
+    "word": "Allele",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "allele is a key concept in science.",
+    "example": "\"allele is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "Amino Acid",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "amino acid is a key concept in science.",
+    "example": "\"amino acid is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 71,
+    "word": "Anaerobic",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "anaerobic is a key concept in science.",
+    "example": "\"anaerobic is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 72,
+    "word": "Antimatter",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "antimatter is a key concept in science.",
+    "example": "\"antimatter is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 73,
+    "word": "Atmosphere",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "atmosphere is a key concept in science.",
+    "example": "\"atmosphere is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 74,
+    "word": "Atom",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "atom is a key concept in science.",
+    "example": "\"atom is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 75,
+    "word": "Axon",
+    "letter": "A",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "axon is a key concept in science.",
+    "example": "\"axon is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 76,
+    "word": "Biome",
+    "letter": "B",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "biome is a key concept in science.",
+    "example": "\"biome is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 77,
+    "word": "Black Hole",
+    "letter": "B",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "black hole is a key concept in science.",
+    "example": "\"black hole is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 78,
+    "word": "Carbon Cycle",
+    "letter": "C",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "carbon cycle is a key concept in science.",
+    "example": "\"carbon cycle is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 79,
+    "word": "Cell Membrane",
+    "letter": "C",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "cell membrane is a key concept in science.",
+    "example": "\"cell membrane is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 80,
+    "word": "Centripetal Force",
+    "letter": "C",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "centripetal force is a key concept in science.",
+    "example": "\"centripetal force is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 81,
+    "word": "Chromosome",
+    "letter": "C",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "chromosome is a key concept in science.",
+    "example": "\"chromosome is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 82,
+    "word": "Combustion",
+    "letter": "C",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "combustion is a key concept in science.",
+    "example": "\"combustion is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 83,
+    "word": "Conductivity",
+    "letter": "C",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "conductivity is a key concept in science.",
+    "example": "\"conductivity is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 84,
+    "word": "Control Group",
+    "letter": "C",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "control group is a key concept in science.",
+    "example": "\"control group is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 85,
+    "word": "Covalent Bond",
+    "letter": "C",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "covalent bond is a key concept in science.",
+    "example": "\"covalent bond is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 86,
+    "word": "Dark Matter",
+    "letter": "D",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "dark matter is a key concept in science.",
+    "example": "\"dark matter is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 87,
+    "word": "Deduction",
+    "letter": "D",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "deduction is a key concept in science.",
+    "example": "\"deduction is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 88,
+    "word": "Deoxyribonucleic Acid",
+    "letter": "D",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "deoxyribonucleic acid is a key concept in science.",
+    "example": "\"deoxyribonucleic acid is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 89,
+    "word": "Diffusion",
+    "letter": "D",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "diffusion is a key concept in science.",
+    "example": "\"diffusion is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 90,
+    "word": "Doppler Effect",
+    "letter": "D",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "doppler effect is a key concept in science.",
+    "example": "\"doppler effect is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 91,
+    "word": "Ecosystem",
+    "letter": "E",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "ecosystem is a key concept in science.",
+    "example": "\"ecosystem is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 92,
+    "word": "Electric Field",
+    "letter": "E",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "electric field is a key concept in science.",
+    "example": "\"electric field is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 93,
+    "word": "Electrolysis",
+    "letter": "E",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "electrolysis is a key concept in science.",
+    "example": "\"electrolysis is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 94,
+    "word": "Electromagnetic",
+    "letter": "E",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "electromagnetic is a key concept in science.",
+    "example": "\"electromagnetic is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 95,
+    "word": "Electron",
+    "letter": "E",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "electron is a key concept in science.",
+    "example": "\"electron is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 96,
+    "word": "Endothermic",
+    "letter": "E",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "endothermic is a key concept in science.",
+    "example": "\"endothermic is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 97,
+    "word": "Enzyme",
+    "letter": "E",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "enzyme is a key concept in science.",
+    "example": "\"enzyme is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 98,
+    "word": "Exothermic",
+    "letter": "E",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "exothermic is a key concept in science.",
+    "example": "\"exothermic is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 99,
+    "word": "Fermentation",
+    "letter": "F",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "fermentation is a key concept in science.",
+    "example": "\"fermentation is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 100,
+    "word": "Fission",
+    "letter": "F",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "fission is a key concept in science.",
+    "example": "\"fission is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 101,
+    "word": "Food Chain",
+    "letter": "F",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "food chain is a key concept in science.",
+    "example": "\"food chain is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 102,
+    "word": "Frequency",
+    "letter": "F",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "frequency is a key concept in science.",
+    "example": "\"frequency is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 103,
+    "word": "Gene",
+    "letter": "G",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "gene is a key concept in science.",
+    "example": "\"gene is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 104,
+    "word": "Half-Life",
+    "letter": "H",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "half-life is a key concept in science.",
+    "example": "\"half-life is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 105,
+    "word": "Homeostasis",
+    "letter": "H",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "homeostasis is a key concept in science.",
+    "example": "\"homeostasis is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 106,
+    "word": "Hormone",
+    "letter": "H",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "hormone is a key concept in science.",
+    "example": "\"hormone is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 107,
+    "word": "Hypothesis",
+    "letter": "H",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "hypothesis is a key concept in science.",
+    "example": "\"hypothesis is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 108,
+    "word": "Immune System",
+    "letter": "I",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "immune system is a key concept in science.",
+    "example": "\"immune system is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 109,
+    "word": "Induction",
+    "letter": "I",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "induction is a key concept in science.",
+    "example": "\"induction is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 110,
+    "word": "Ionic Bond",
+    "letter": "I",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "ionic bond is a key concept in science.",
+    "example": "\"ionic bond is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 111,
+    "word": "Isotope",
+    "letter": "I",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "isotope is a key concept in science.",
+    "example": "\"isotope is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 112,
+    "word": "Kinetic Energy",
+    "letter": "K",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "kinetic energy is a key concept in science.",
+    "example": "\"kinetic energy is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 113,
+    "word": "Magnetic Field",
+    "letter": "M",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "magnetic field is a key concept in science.",
+    "example": "\"magnetic field is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 114,
+    "word": "Mitosis",
+    "letter": "M",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "mitosis is a key concept in science.",
+    "example": "\"mitosis is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 115,
+    "word": "Molecule",
+    "letter": "M",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "molecule is a key concept in science.",
+    "example": "\"molecule is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 116,
+    "word": "Momentum",
+    "letter": "M",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "momentum is a key concept in science.",
+    "example": "\"momentum is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 117,
+    "word": "Mutation",
+    "letter": "M",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "mutation is a key concept in science.",
+    "example": "\"mutation is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 118,
+    "word": "Natural Selection",
+    "letter": "N",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "natural selection is a key concept in science.",
+    "example": "\"natural selection is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 119,
+    "word": "Neurotransmitter",
+    "letter": "N",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "neurotransmitter is a key concept in science.",
+    "example": "\"neurotransmitter is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 120,
+    "word": "Neutron",
+    "letter": "N",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "neutron is a key concept in science.",
+    "example": "\"neutron is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 121,
+    "word": "Nucleus",
+    "letter": "N",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "nucleus is a key concept in science.",
+    "example": "\"nucleus is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 122,
+    "word": "Organelle",
+    "letter": "O",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "organelle is a key concept in science.",
+    "example": "\"organelle is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 123,
+    "word": "Osmosis",
+    "letter": "O",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "osmosis is a key concept in science.",
+    "example": "\"osmosis is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 124,
+    "word": "Oxidation",
+    "letter": "O",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "oxidation is a key concept in science.",
+    "example": "\"oxidation is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 125,
+    "word": "Peptide",
+    "letter": "P",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "peptide is a key concept in science.",
+    "example": "\"peptide is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 126,
+    "word": "Photon",
+    "letter": "P",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "photon is a key concept in science.",
+    "example": "\"photon is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 127,
+    "word": "Plasmid",
+    "letter": "P",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "plasmid is a key concept in science.",
+    "example": "\"plasmid is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 128,
+    "word": "Potential Energy",
+    "letter": "P",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "potential energy is a key concept in science.",
+    "example": "\"potential energy is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 129,
+    "word": "Protein",
+    "letter": "P",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "protein is a key concept in science.",
+    "example": "\"protein is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 130,
+    "word": "Proton",
+    "letter": "P",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "proton is a key concept in science.",
+    "example": "\"proton is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 131,
+    "word": "Refraction",
+    "letter": "R",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "refraction is a key concept in science.",
+    "example": "\"refraction is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 132,
+    "word": "Ribosome",
+    "letter": "R",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "ribosome is a key concept in science.",
+    "example": "\"ribosome is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 133,
+    "word": "Sediment",
+    "letter": "S",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "sediment is a key concept in science.",
+    "example": "\"sediment is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 134,
+    "word": "Speciation",
+    "letter": "S",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "speciation is a key concept in science.",
+    "example": "\"speciation is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 135,
+    "word": "Sublimation",
+    "letter": "S",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "sublimation is a key concept in science.",
+    "example": "\"sublimation is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 136,
+    "word": "Supersymmetry",
+    "letter": "S",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "supersymmetry is a key concept in science.",
+    "example": "\"supersymmetry is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 137,
+    "word": "Thermodynamics",
+    "letter": "T",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "thermodynamics is a key concept in science.",
+    "example": "\"thermodynamics is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 138,
+    "word": "Tissue",
+    "letter": "T",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "tissue is a key concept in science.",
+    "example": "\"tissue is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 139,
+    "word": "Trophic Level",
+    "letter": "T",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "trophic level is a key concept in science.",
+    "example": "\"trophic level is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 140,
+    "word": "Uncertainty Principle",
+    "letter": "U",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "uncertainty principle is a key concept in science.",
+    "example": "\"uncertainty principle is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 141,
+    "word": "Vacuum",
+    "letter": "V",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "vacuum is a key concept in science.",
+    "example": "\"vacuum is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 142,
+    "word": "Valence",
+    "letter": "V",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "valence is a key concept in science.",
+    "example": "\"valence is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 143,
+    "word": "Wavelength",
+    "letter": "W",
+    "category": "Science",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in science.",
+    "full": "wavelength is a key concept in science.",
+    "example": "\"wavelength is widely discussed in science.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Science"
+    ]
+  },
+  {
+    "id": 144,
+    "word": "Ablative",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "ablative is a key concept in language.",
+    "example": "\"ablative is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 145,
+    "word": "Accusative",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "accusative is a key concept in language.",
+    "example": "\"accusative is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 146,
+    "word": "Active Voice",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "active voice is a key concept in language.",
+    "example": "\"active voice is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 147,
+    "word": "Adjective",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "adjective is a key concept in language.",
+    "example": "\"adjective is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 148,
+    "word": "Adverb",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "adverb is a key concept in language.",
+    "example": "\"adverb is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 149,
+    "word": "Affix",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "affix is a key concept in language.",
+    "example": "\"affix is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 150,
+    "word": "Anachronism",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "anachronism is a key concept in language.",
+    "example": "\"anachronism is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 151,
+    "word": "Anagram",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "anagram is a key concept in language.",
+    "example": "\"anagram is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 152,
+    "word": "Anaphora",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "anaphora is a key concept in language.",
+    "example": "\"anaphora is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 153,
+    "word": "Anthropomorphism",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "anthropomorphism is a key concept in language.",
+    "example": "\"anthropomorphism is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 154,
+    "word": "Aphorism",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "aphorism is a key concept in language.",
+    "example": "\"aphorism is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 155,
+    "word": "Apocope",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "apocope is a key concept in language.",
+    "example": "\"apocope is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 156,
+    "word": "Archetype",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "archetype is a key concept in language.",
+    "example": "\"archetype is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 157,
+    "word": "Assonance",
+    "letter": "A",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "assonance is a key concept in language.",
+    "example": "\"assonance is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 158,
+    "word": "Bathos",
+    "letter": "B",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "bathos is a key concept in language.",
+    "example": "\"bathos is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 159,
+    "word": "Bildungsroman",
+    "letter": "B",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "bildungsroman is a key concept in language.",
+    "example": "\"bildungsroman is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 160,
+    "word": "Cacophony",
+    "letter": "C",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "cacophony is a key concept in language.",
+    "example": "\"cacophony is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 161,
+    "word": "Chiasmus",
+    "letter": "C",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "chiasmus is a key concept in language.",
+    "example": "\"chiasmus is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 162,
+    "word": "Clause",
+    "letter": "C",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "clause is a key concept in language.",
+    "example": "\"clause is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 163,
+    "word": "Collocation",
+    "letter": "C",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "collocation is a key concept in language.",
+    "example": "\"collocation is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 164,
+    "word": "Connotation",
+    "letter": "C",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "connotation is a key concept in language.",
+    "example": "\"connotation is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 165,
+    "word": "Deconstruction",
+    "letter": "D",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "deconstruction is a key concept in language.",
+    "example": "\"deconstruction is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 166,
+    "word": "Deixis",
+    "letter": "D",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "deixis is a key concept in language.",
+    "example": "\"deixis is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 167,
+    "word": "Denouement",
+    "letter": "D",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "denouement is a key concept in language.",
+    "example": "\"denouement is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 168,
+    "word": "Diction",
+    "letter": "D",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "diction is a key concept in language.",
+    "example": "\"diction is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 169,
+    "word": "Diglossia",
+    "letter": "D",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "diglossia is a key concept in language.",
+    "example": "\"diglossia is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 170,
+    "word": "Diphthong",
+    "letter": "D",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "diphthong is a key concept in language.",
+    "example": "\"diphthong is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 171,
+    "word": "Discourse",
+    "letter": "D",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "discourse is a key concept in language.",
+    "example": "\"discourse is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 172,
+    "word": "Ekphrasis",
+    "letter": "E",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "ekphrasis is a key concept in language.",
+    "example": "\"ekphrasis is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 173,
+    "word": "Ellipsis",
+    "letter": "E",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "ellipsis is a key concept in language.",
+    "example": "\"ellipsis is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 174,
+    "word": "Enjambment",
+    "letter": "E",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "enjambment is a key concept in language.",
+    "example": "\"enjambment is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 175,
+    "word": "Epistrophe",
+    "letter": "E",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "epistrophe is a key concept in language.",
+    "example": "\"epistrophe is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 176,
+    "word": "Ethos",
+    "letter": "E",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "ethos is a key concept in language.",
+    "example": "\"ethos is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 177,
+    "word": "Euphony",
+    "letter": "E",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "euphony is a key concept in language.",
+    "example": "\"euphony is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 178,
+    "word": "Exposition",
+    "letter": "E",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "exposition is a key concept in language.",
+    "example": "\"exposition is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 179,
+    "word": "Foreshadowing",
+    "letter": "F",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "foreshadowing is a key concept in language.",
+    "example": "\"foreshadowing is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 180,
+    "word": "Genre",
+    "letter": "G",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "genre is a key concept in language.",
+    "example": "\"genre is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 181,
+    "word": "Gloss",
+    "letter": "G",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "gloss is a key concept in language.",
+    "example": "\"gloss is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 182,
+    "word": "Grammar",
+    "letter": "G",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "grammar is a key concept in language.",
+    "example": "\"grammar is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 183,
+    "word": "Homonym",
+    "letter": "H",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "homonym is a key concept in language.",
+    "example": "\"homonym is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 184,
+    "word": "Hyponym",
+    "letter": "H",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "hyponym is a key concept in language.",
+    "example": "\"hyponym is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 185,
+    "word": "Imagery",
+    "letter": "I",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "imagery is a key concept in language.",
+    "example": "\"imagery is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 186,
+    "word": "Inflection",
+    "letter": "I",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "inflection is a key concept in language.",
+    "example": "\"inflection is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 187,
+    "word": "Intonation",
+    "letter": "I",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "intonation is a key concept in language.",
+    "example": "\"intonation is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 188,
+    "word": "Invective",
+    "letter": "I",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "invective is a key concept in language.",
+    "example": "\"invective is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 189,
+    "word": "Kenning",
+    "letter": "K",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "kenning is a key concept in language.",
+    "example": "\"kenning is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 190,
+    "word": "Lemma",
+    "letter": "L",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "lemma is a key concept in language.",
+    "example": "\"lemma is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 191,
+    "word": "Litotes",
+    "letter": "L",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "litotes is a key concept in language.",
+    "example": "\"litotes is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 192,
+    "word": "Loanword",
+    "letter": "L",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "loanword is a key concept in language.",
+    "example": "\"loanword is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 193,
+    "word": "Logos",
+    "letter": "L",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "logos is a key concept in language.",
+    "example": "\"logos is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 194,
+    "word": "Malapropism",
+    "letter": "M",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "malapropism is a key concept in language.",
+    "example": "\"malapropism is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 195,
+    "word": "Metonymy",
+    "letter": "M",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "metonymy is a key concept in language.",
+    "example": "\"metonymy is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 196,
+    "word": "Morpheme",
+    "letter": "M",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "morpheme is a key concept in language.",
+    "example": "\"morpheme is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 197,
+    "word": "Motif",
+    "letter": "M",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "motif is a key concept in language.",
+    "example": "\"motif is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 198,
+    "word": "Neologism",
+    "letter": "N",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "neologism is a key concept in language.",
+    "example": "\"neologism is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 199,
+    "word": "Nominative",
+    "letter": "N",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "nominative is a key concept in language.",
+    "example": "\"nominative is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 200,
+    "word": "Pathos",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "pathos is a key concept in language.",
+    "example": "\"pathos is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 201,
+    "word": "Periphrasis",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "periphrasis is a key concept in language.",
+    "example": "\"periphrasis is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 202,
+    "word": "Phonology",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "phonology is a key concept in language.",
+    "example": "\"phonology is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 203,
+    "word": "Pidgin",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "pidgin is a key concept in language.",
+    "example": "\"pidgin is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 204,
+    "word": "Pleonasm",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "pleonasm is a key concept in language.",
+    "example": "\"pleonasm is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 205,
+    "word": "Portmanteau",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "portmanteau is a key concept in language.",
+    "example": "\"portmanteau is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 206,
+    "word": "Pragmatics",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "pragmatics is a key concept in language.",
+    "example": "\"pragmatics is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 207,
+    "word": "Predicate",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "predicate is a key concept in language.",
+    "example": "\"predicate is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 208,
+    "word": "Prosody",
+    "letter": "P",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "prosody is a key concept in language.",
+    "example": "\"prosody is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 209,
+    "word": "Register",
+    "letter": "R",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "register is a key concept in language.",
+    "example": "\"register is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 210,
+    "word": "Rhyme",
+    "letter": "R",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "rhyme is a key concept in language.",
+    "example": "\"rhyme is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 211,
+    "word": "Satire",
+    "letter": "S",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "satire is a key concept in language.",
+    "example": "\"satire is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 212,
+    "word": "Semantics",
+    "letter": "S",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "semantics is a key concept in language.",
+    "example": "\"semantics is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 213,
+    "word": "Solecism",
+    "letter": "S",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "solecism is a key concept in language.",
+    "example": "\"solecism is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 214,
+    "word": "Subtext",
+    "letter": "S",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "subtext is a key concept in language.",
+    "example": "\"subtext is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 215,
+    "word": "Suffix",
+    "letter": "S",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "suffix is a key concept in language.",
+    "example": "\"suffix is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 216,
+    "word": "Syllable",
+    "letter": "S",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "syllable is a key concept in language.",
+    "example": "\"syllable is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 217,
+    "word": "Synecdoche",
+    "letter": "S",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "synecdoche is a key concept in language.",
+    "example": "\"synecdoche is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 218,
+    "word": "Syntax",
+    "letter": "S",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "syntax is a key concept in language.",
+    "example": "\"syntax is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 219,
+    "word": "Trope",
+    "letter": "T",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "trope is a key concept in language.",
+    "example": "\"trope is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 220,
+    "word": "Vernacular",
+    "letter": "V",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "vernacular is a key concept in language.",
+    "example": "\"vernacular is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 221,
+    "word": "Volta",
+    "letter": "V",
+    "category": "Language",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in language.",
+    "full": "volta is a key concept in language.",
+    "example": "\"volta is widely discussed in language.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Language"
+    ]
+  },
+  {
+    "id": 222,
+    "word": "Abolitionism",
+    "letter": "A",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "abolitionism is a key concept in history.",
+    "example": "\"abolitionism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 223,
+    "word": "Ancien Régime",
+    "letter": "A",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "ancien régime is a key concept in history.",
+    "example": "\"ancien régime is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 224,
+    "word": "Annexation",
+    "letter": "A",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "annexation is a key concept in history.",
+    "example": "\"annexation is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 225,
+    "word": "Appeasement",
+    "letter": "A",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "appeasement is a key concept in history.",
+    "example": "\"appeasement is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 226,
+    "word": "Armistice",
+    "letter": "A",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "armistice is a key concept in history.",
+    "example": "\"armistice is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 227,
+    "word": "Assimilation",
+    "letter": "A",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "assimilation is a key concept in history.",
+    "example": "\"assimilation is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 228,
+    "word": "Autocracy",
+    "letter": "A",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "autocracy is a key concept in history.",
+    "example": "\"autocracy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 229,
+    "word": "Balkanization",
+    "letter": "B",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "balkanization is a key concept in history.",
+    "example": "\"balkanization is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 230,
+    "word": "Casus Belli",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "casus belli is a key concept in history.",
+    "example": "\"casus belli is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 231,
+    "word": "Chauvinism",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "chauvinism is a key concept in history.",
+    "example": "\"chauvinism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 232,
+    "word": "Civil Disobedience",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "civil disobedience is a key concept in history.",
+    "example": "\"civil disobedience is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 233,
+    "word": "Classicism",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "classicism is a key concept in history.",
+    "example": "\"classicism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 234,
+    "word": "Clemency",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "clemency is a key concept in history.",
+    "example": "\"clemency is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 235,
+    "word": "Codex",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "codex is a key concept in history.",
+    "example": "\"codex is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 236,
+    "word": "Colonialism",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "colonialism is a key concept in history.",
+    "example": "\"colonialism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 237,
+    "word": "Conquistador",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "conquistador is a key concept in history.",
+    "example": "\"conquistador is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 238,
+    "word": "Constitution",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "constitution is a key concept in history.",
+    "example": "\"constitution is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 239,
+    "word": "Coup",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "coup is a key concept in history.",
+    "example": "\"coup is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 240,
+    "word": "Crusade",
+    "letter": "C",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "crusade is a key concept in history.",
+    "example": "\"crusade is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 241,
+    "word": "Decolonization",
+    "letter": "D",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "decolonization is a key concept in history.",
+    "example": "\"decolonization is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 242,
+    "word": "Demagogue",
+    "letter": "D",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "demagogue is a key concept in history.",
+    "example": "\"demagogue is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 243,
+    "word": "Despotism",
+    "letter": "D",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "despotism is a key concept in history.",
+    "example": "\"despotism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 244,
+    "word": "Détente",
+    "letter": "D",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "détente is a key concept in history.",
+    "example": "\"détente is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 245,
+    "word": "Diplomacy",
+    "letter": "D",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "diplomacy is a key concept in history.",
+    "example": "\"diplomacy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 246,
+    "word": "Dispossession",
+    "letter": "D",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "dispossession is a key concept in history.",
+    "example": "\"dispossession is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 247,
+    "word": "Doctrine",
+    "letter": "D",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "doctrine is a key concept in history.",
+    "example": "\"doctrine is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 248,
+    "word": "Emancipation",
+    "letter": "E",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "emancipation is a key concept in history.",
+    "example": "\"emancipation is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 249,
+    "word": "Empire",
+    "letter": "E",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "empire is a key concept in history.",
+    "example": "\"empire is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 250,
+    "word": "Enlightenment",
+    "letter": "E",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "enlightenment is a key concept in history.",
+    "example": "\"enlightenment is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 251,
+    "word": "Exodus",
+    "letter": "E",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "exodus is a key concept in history.",
+    "example": "\"exodus is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 252,
+    "word": "Expansionism",
+    "letter": "E",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "expansionism is a key concept in history.",
+    "example": "\"expansionism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 253,
+    "word": "Fascism",
+    "letter": "F",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "fascism is a key concept in history.",
+    "example": "\"fascism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 254,
+    "word": "Federation",
+    "letter": "F",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "federation is a key concept in history.",
+    "example": "\"federation is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 255,
+    "word": "Feudalism",
+    "letter": "F",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "feudalism is a key concept in history.",
+    "example": "\"feudalism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 256,
+    "word": "Filibuster",
+    "letter": "F",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "filibuster is a key concept in history.",
+    "example": "\"filibuster is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 257,
+    "word": "Genocide",
+    "letter": "G",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "genocide is a key concept in history.",
+    "example": "\"genocide is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 258,
+    "word": "Glasnost",
+    "letter": "G",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "glasnost is a key concept in history.",
+    "example": "\"glasnost is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 259,
+    "word": "Guerrilla",
+    "letter": "G",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "guerrilla is a key concept in history.",
+    "example": "\"guerrilla is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 260,
+    "word": "Guillotine",
+    "letter": "G",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "guillotine is a key concept in history.",
+    "example": "\"guillotine is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 261,
+    "word": "Habeas Corpus",
+    "letter": "H",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "habeas corpus is a key concept in history.",
+    "example": "\"habeas corpus is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 262,
+    "word": "Hegemony",
+    "letter": "H",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "hegemony is a key concept in history.",
+    "example": "\"hegemony is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 263,
+    "word": "Heresy",
+    "letter": "H",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "heresy is a key concept in history.",
+    "example": "\"heresy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 264,
+    "word": "Hierarchy",
+    "letter": "H",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "hierarchy is a key concept in history.",
+    "example": "\"hierarchy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 265,
+    "word": "Historiography",
+    "letter": "H",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "historiography is a key concept in history.",
+    "example": "\"historiography is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 266,
+    "word": "Imperialism",
+    "letter": "I",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "imperialism is a key concept in history.",
+    "example": "\"imperialism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 267,
+    "word": "Indigenous",
+    "letter": "I",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "indigenous is a key concept in history.",
+    "example": "\"indigenous is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 268,
+    "word": "Industrialization",
+    "letter": "I",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "industrialization is a key concept in history.",
+    "example": "\"industrialization is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 269,
+    "word": "Inquisition",
+    "letter": "I",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "inquisition is a key concept in history.",
+    "example": "\"inquisition is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 270,
+    "word": "Insurrection",
+    "letter": "I",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "insurrection is a key concept in history.",
+    "example": "\"insurrection is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 271,
+    "word": "Interregnum",
+    "letter": "I",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "interregnum is a key concept in history.",
+    "example": "\"interregnum is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 272,
+    "word": "Jingoism",
+    "letter": "J",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "jingoism is a key concept in history.",
+    "example": "\"jingoism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 273,
+    "word": "Junta",
+    "letter": "J",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "junta is a key concept in history.",
+    "example": "\"junta is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 274,
+    "word": "Laissez-Faire",
+    "letter": "L",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "laissez-faire is a key concept in history.",
+    "example": "\"laissez-faire is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 275,
+    "word": "Legitimacy",
+    "letter": "L",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "legitimacy is a key concept in history.",
+    "example": "\"legitimacy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 276,
+    "word": "Liberalism",
+    "letter": "L",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "liberalism is a key concept in history.",
+    "example": "\"liberalism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 277,
+    "word": "Manifesto",
+    "letter": "M",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "manifesto is a key concept in history.",
+    "example": "\"manifesto is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 278,
+    "word": "Martial Law",
+    "letter": "M",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "martial law is a key concept in history.",
+    "example": "\"martial law is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 279,
+    "word": "Mercantilism",
+    "letter": "M",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "mercantilism is a key concept in history.",
+    "example": "\"mercantilism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 280,
+    "word": "Meritocracy",
+    "letter": "M",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "meritocracy is a key concept in history.",
+    "example": "\"meritocracy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 281,
+    "word": "Militarism",
+    "letter": "M",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "militarism is a key concept in history.",
+    "example": "\"militarism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 282,
+    "word": "Monarchy",
+    "letter": "M",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "monarchy is a key concept in history.",
+    "example": "\"monarchy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 283,
+    "word": "Nationalism",
+    "letter": "N",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "nationalism is a key concept in history.",
+    "example": "\"nationalism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 284,
+    "word": "Nativism",
+    "letter": "N",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "nativism is a key concept in history.",
+    "example": "\"nativism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 285,
+    "word": "Neutrality",
+    "letter": "N",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "neutrality is a key concept in history.",
+    "example": "\"neutrality is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 286,
+    "word": "Oligarchy",
+    "letter": "O",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "oligarchy is a key concept in history.",
+    "example": "\"oligarchy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 287,
+    "word": "Partition",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "partition is a key concept in history.",
+    "example": "\"partition is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 288,
+    "word": "Patrician",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "patrician is a key concept in history.",
+    "example": "\"patrician is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 289,
+    "word": "Pax Romana",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "pax romana is a key concept in history.",
+    "example": "\"pax romana is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 290,
+    "word": "Perestroika",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "perestroika is a key concept in history.",
+    "example": "\"perestroika is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 291,
+    "word": "Plebeian",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "plebeian is a key concept in history.",
+    "example": "\"plebeian is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 292,
+    "word": "Pluralism",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "pluralism is a key concept in history.",
+    "example": "\"pluralism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 293,
+    "word": "Pogrom",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "pogrom is a key concept in history.",
+    "example": "\"pogrom is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 294,
+    "word": "Populism",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "populism is a key concept in history.",
+    "example": "\"populism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 295,
+    "word": "Primogeniture",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "primogeniture is a key concept in history.",
+    "example": "\"primogeniture is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 296,
+    "word": "Protectorate",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "protectorate is a key concept in history.",
+    "example": "\"protectorate is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 297,
+    "word": "Proxy War",
+    "letter": "P",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "proxy war is a key concept in history.",
+    "example": "\"proxy war is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 298,
+    "word": "Referendum",
+    "letter": "R",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "referendum is a key concept in history.",
+    "example": "\"referendum is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 299,
+    "word": "Reformation",
+    "letter": "R",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "reformation is a key concept in history.",
+    "example": "\"reformation is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 300,
+    "word": "Reparations",
+    "letter": "R",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "reparations is a key concept in history.",
+    "example": "\"reparations is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 301,
+    "word": "Republic",
+    "letter": "R",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "republic is a key concept in history.",
+    "example": "\"republic is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 302,
+    "word": "Revisionism",
+    "letter": "R",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "revisionism is a key concept in history.",
+    "example": "\"revisionism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 303,
+    "word": "Revolution",
+    "letter": "R",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "revolution is a key concept in history.",
+    "example": "\"revolution is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 304,
+    "word": "Schism",
+    "letter": "S",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "schism is a key concept in history.",
+    "example": "\"schism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 305,
+    "word": "Secularism",
+    "letter": "S",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "secularism is a key concept in history.",
+    "example": "\"secularism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 306,
+    "word": "Sedition",
+    "letter": "S",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "sedition is a key concept in history.",
+    "example": "\"sedition is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 307,
+    "word": "Sovereignty",
+    "letter": "S",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "sovereignty is a key concept in history.",
+    "example": "\"sovereignty is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 308,
+    "word": "Succession",
+    "letter": "S",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "succession is a key concept in history.",
+    "example": "\"succession is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 309,
+    "word": "Suffrage",
+    "letter": "S",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "suffrage is a key concept in history.",
+    "example": "\"suffrage is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 310,
+    "word": "Theocracy",
+    "letter": "T",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "theocracy is a key concept in history.",
+    "example": "\"theocracy is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 311,
+    "word": "Totalitarianism",
+    "letter": "T",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "totalitarianism is a key concept in history.",
+    "example": "\"totalitarianism is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 312,
+    "word": "Treaty",
+    "letter": "T",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "treaty is a key concept in history.",
+    "example": "\"treaty is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 313,
+    "word": "Tribunal",
+    "letter": "T",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "tribunal is a key concept in history.",
+    "example": "\"tribunal is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 314,
+    "word": "Tyranny",
+    "letter": "T",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "tyranny is a key concept in history.",
+    "example": "\"tyranny is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 315,
+    "word": "Utopia",
+    "letter": "U",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "utopia is a key concept in history.",
+    "example": "\"utopia is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 316,
+    "word": "Vassal",
+    "letter": "V",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "vassal is a key concept in history.",
+    "example": "\"vassal is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 317,
+    "word": "Welfare State",
+    "letter": "W",
+    "category": "History",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in history.",
+    "full": "welfare state is a key concept in history.",
+    "example": "\"welfare state is widely discussed in history.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": 318,
+    "word": "Absurdism",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "absurdism is a key concept in philosophy.",
+    "example": "\"absurdism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 319,
+    "word": "Aesthetics",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "aesthetics is a key concept in philosophy.",
+    "example": "\"aesthetics is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 320,
+    "word": "Altruism",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "altruism is a key concept in philosophy.",
+    "example": "\"altruism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 321,
+    "word": "Anarchism",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "anarchism is a key concept in philosophy.",
+    "example": "\"anarchism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 322,
+    "word": "Antinomy",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "antinomy is a key concept in philosophy.",
+    "example": "\"antinomy is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 323,
+    "word": "Aporia",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "aporia is a key concept in philosophy.",
+    "example": "\"aporia is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 324,
+    "word": "A Priori",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "a priori is a key concept in philosophy.",
+    "example": "\"a priori is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 325,
+    "word": "Asceticism",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "asceticism is a key concept in philosophy.",
+    "example": "\"asceticism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 326,
+    "word": "Autonomy",
+    "letter": "A",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "autonomy is a key concept in philosophy.",
+    "example": "\"autonomy is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 327,
+    "word": "Categorical Imperative",
+    "letter": "C",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "categorical imperative is a key concept in philosophy.",
+    "example": "\"categorical imperative is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 328,
+    "word": "Causality",
+    "letter": "C",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "causality is a key concept in philosophy.",
+    "example": "\"causality is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 329,
+    "word": "Cogito",
+    "letter": "C",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "cogito is a key concept in philosophy.",
+    "example": "\"cogito is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 330,
+    "word": "Consequentialism",
+    "letter": "C",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "consequentialism is a key concept in philosophy.",
+    "example": "\"consequentialism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 331,
+    "word": "Contingency",
+    "letter": "C",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "contingency is a key concept in philosophy.",
+    "example": "\"contingency is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 332,
+    "word": "Cosmology",
+    "letter": "C",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "cosmology is a key concept in philosophy.",
+    "example": "\"cosmology is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 333,
+    "word": "Cynicism",
+    "letter": "C",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "cynicism is a key concept in philosophy.",
+    "example": "\"cynicism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 334,
+    "word": "Deontology",
+    "letter": "D",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "deontology is a key concept in philosophy.",
+    "example": "\"deontology is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 335,
+    "word": "Determinism",
+    "letter": "D",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "determinism is a key concept in philosophy.",
+    "example": "\"determinism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 336,
+    "word": "Dialectic",
+    "letter": "D",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "dialectic is a key concept in philosophy.",
+    "example": "\"dialectic is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 337,
+    "word": "Dualism",
+    "letter": "D",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "dualism is a key concept in philosophy.",
+    "example": "\"dualism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 338,
+    "word": "Empiricism",
+    "letter": "E",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "empiricism is a key concept in philosophy.",
+    "example": "\"empiricism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 339,
+    "word": "Enlightenment",
+    "letter": "E",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "enlightenment is a key concept in philosophy.",
+    "example": "\"enlightenment is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 340,
+    "word": "Epistemology",
+    "letter": "E",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "epistemology is a key concept in philosophy.",
+    "example": "\"epistemology is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 341,
+    "word": "Eschatology",
+    "letter": "E",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "eschatology is a key concept in philosophy.",
+    "example": "\"eschatology is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 342,
+    "word": "Ethics",
+    "letter": "E",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "ethics is a key concept in philosophy.",
+    "example": "\"ethics is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 343,
+    "word": "Existentialism",
+    "letter": "E",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "existentialism is a key concept in philosophy.",
+    "example": "\"existentialism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 344,
+    "word": "Fatalism",
+    "letter": "F",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "fatalism is a key concept in philosophy.",
+    "example": "\"fatalism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 345,
+    "word": "Free Will",
+    "letter": "F",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "free will is a key concept in philosophy.",
+    "example": "\"free will is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 346,
+    "word": "Functionalism",
+    "letter": "F",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "functionalism is a key concept in philosophy.",
+    "example": "\"functionalism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 347,
+    "word": "Hedonism",
+    "letter": "H",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "hedonism is a key concept in philosophy.",
+    "example": "\"hedonism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 348,
+    "word": "Hermeneutics",
+    "letter": "H",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "hermeneutics is a key concept in philosophy.",
+    "example": "\"hermeneutics is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 349,
+    "word": "Humanism",
+    "letter": "H",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "humanism is a key concept in philosophy.",
+    "example": "\"humanism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 350,
+    "word": "Idealism",
+    "letter": "I",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "idealism is a key concept in philosophy.",
+    "example": "\"idealism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 351,
+    "word": "Immanence",
+    "letter": "I",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "immanence is a key concept in philosophy.",
+    "example": "\"immanence is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 352,
+    "word": "Instrumentalism",
+    "letter": "I",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "instrumentalism is a key concept in philosophy.",
+    "example": "\"instrumentalism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 353,
+    "word": "Intersubjectivity",
+    "letter": "I",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "intersubjectivity is a key concept in philosophy.",
+    "example": "\"intersubjectivity is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 354,
+    "word": "Intrinsic Value",
+    "letter": "I",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "intrinsic value is a key concept in philosophy.",
+    "example": "\"intrinsic value is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 355,
+    "word": "Kantian",
+    "letter": "K",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "kantian is a key concept in philosophy.",
+    "example": "\"kantian is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 356,
+    "word": "Logos",
+    "letter": "L",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "logos is a key concept in philosophy.",
+    "example": "\"logos is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 357,
+    "word": "Materialism",
+    "letter": "M",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "materialism is a key concept in philosophy.",
+    "example": "\"materialism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 358,
+    "word": "Metaethics",
+    "letter": "M",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "metaethics is a key concept in philosophy.",
+    "example": "\"metaethics is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 359,
+    "word": "Metaphysics",
+    "letter": "M",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "metaphysics is a key concept in philosophy.",
+    "example": "\"metaphysics is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 360,
+    "word": "Moral Realism",
+    "letter": "M",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "moral realism is a key concept in philosophy.",
+    "example": "\"moral realism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 361,
+    "word": "Naturalism",
+    "letter": "N",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "naturalism is a key concept in philosophy.",
+    "example": "\"naturalism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 362,
+    "word": "Nihilism",
+    "letter": "N",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "nihilism is a key concept in philosophy.",
+    "example": "\"nihilism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 363,
+    "word": "Nominalism",
+    "letter": "N",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "nominalism is a key concept in philosophy.",
+    "example": "\"nominalism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 364,
+    "word": "Objectivism",
+    "letter": "O",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "objectivism is a key concept in philosophy.",
+    "example": "\"objectivism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 365,
+    "word": "Ontology",
+    "letter": "O",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "ontology is a key concept in philosophy.",
+    "example": "\"ontology is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 366,
+    "word": "Panopticism",
+    "letter": "P",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "panopticism is a key concept in philosophy.",
+    "example": "\"panopticism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 367,
+    "word": "Paternalism",
+    "letter": "P",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "paternalism is a key concept in philosophy.",
+    "example": "\"paternalism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 368,
+    "word": "Phenomenology",
+    "letter": "P",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "phenomenology is a key concept in philosophy.",
+    "example": "\"phenomenology is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 369,
+    "word": "Positivism",
+    "letter": "P",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "positivism is a key concept in philosophy.",
+    "example": "\"positivism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 370,
+    "word": "Postmodernism",
+    "letter": "P",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "postmodernism is a key concept in philosophy.",
+    "example": "\"postmodernism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 371,
+    "word": "Pragmatism",
+    "letter": "P",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "pragmatism is a key concept in philosophy.",
+    "example": "\"pragmatism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 372,
+    "word": "Rationalism",
+    "letter": "R",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "rationalism is a key concept in philosophy.",
+    "example": "\"rationalism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 373,
+    "word": "Reductionism",
+    "letter": "R",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "reductionism is a key concept in philosophy.",
+    "example": "\"reductionism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 374,
+    "word": "Relativism",
+    "letter": "R",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "relativism is a key concept in philosophy.",
+    "example": "\"relativism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 375,
+    "word": "Skepticism",
+    "letter": "S",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "skepticism is a key concept in philosophy.",
+    "example": "\"skepticism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 376,
+    "word": "Social Contract",
+    "letter": "S",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "social contract is a key concept in philosophy.",
+    "example": "\"social contract is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 377,
+    "word": "Solipsism",
+    "letter": "S",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "solipsism is a key concept in philosophy.",
+    "example": "\"solipsism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 378,
+    "word": "Stoicism",
+    "letter": "S",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "stoicism is a key concept in philosophy.",
+    "example": "\"stoicism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 379,
+    "word": "Structuralism",
+    "letter": "S",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "structuralism is a key concept in philosophy.",
+    "example": "\"structuralism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 380,
+    "word": "Subjective",
+    "letter": "S",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "subjective is a key concept in philosophy.",
+    "example": "\"subjective is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 381,
+    "word": "Teleology",
+    "letter": "T",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "teleology is a key concept in philosophy.",
+    "example": "\"teleology is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 382,
+    "word": "Transcendence",
+    "letter": "T",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "transcendence is a key concept in philosophy.",
+    "example": "\"transcendence is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 383,
+    "word": "Utilitarianism",
+    "letter": "U",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "utilitarianism is a key concept in philosophy.",
+    "example": "\"utilitarianism is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 384,
+    "word": "Virtue Ethics",
+    "letter": "V",
+    "category": "Philosophy",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in philosophy.",
+    "full": "virtue ethics is a key concept in philosophy.",
+    "example": "\"virtue ethics is widely discussed in philosophy.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": 385,
+    "word": "Abscissa",
+    "letter": "A",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "abscissa is a key concept in mathematics.",
+    "example": "\"abscissa is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 386,
+    "word": "Absolute Value",
+    "letter": "A",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "absolute value is a key concept in mathematics.",
+    "example": "\"absolute value is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 387,
+    "word": "Abstract Algebra",
+    "letter": "A",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "abstract algebra is a key concept in mathematics.",
+    "example": "\"abstract algebra is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 388,
+    "word": "Algebra",
+    "letter": "A",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "algebra is a key concept in mathematics.",
+    "example": "\"algebra is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 389,
+    "word": "Algorithm",
+    "letter": "A",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "algorithm is a key concept in mathematics.",
+    "example": "\"algorithm is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 390,
+    "word": "Asymptote",
+    "letter": "A",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "asymptote is a key concept in mathematics.",
+    "example": "\"asymptote is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 391,
+    "word": "Axiom",
+    "letter": "A",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "axiom is a key concept in mathematics.",
+    "example": "\"axiom is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 392,
+    "word": "Binary",
+    "letter": "B",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "binary is a key concept in mathematics.",
+    "example": "\"binary is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 393,
+    "word": "Calculus",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "calculus is a key concept in mathematics.",
+    "example": "\"calculus is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 394,
+    "word": "Cardinality",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "cardinality is a key concept in mathematics.",
+    "example": "\"cardinality is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 395,
+    "word": "Catenary",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "catenary is a key concept in mathematics.",
+    "example": "\"catenary is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 396,
+    "word": "Coefficient",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "coefficient is a key concept in mathematics.",
+    "example": "\"coefficient is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 397,
+    "word": "Combinatorics",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "combinatorics is a key concept in mathematics.",
+    "example": "\"combinatorics is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 398,
+    "word": "Complex Number",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "complex number is a key concept in mathematics.",
+    "example": "\"complex number is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 399,
+    "word": "Congruence",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "congruence is a key concept in mathematics.",
+    "example": "\"congruence is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 400,
+    "word": "Conjecture",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "conjecture is a key concept in mathematics.",
+    "example": "\"conjecture is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 401,
+    "word": "Convergence",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "convergence is a key concept in mathematics.",
+    "example": "\"convergence is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 402,
+    "word": "Corollary",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "corollary is a key concept in mathematics.",
+    "example": "\"corollary is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 403,
+    "word": "Cryptography",
+    "letter": "C",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "cryptography is a key concept in mathematics.",
+    "example": "\"cryptography is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 404,
+    "word": "Derivative",
+    "letter": "D",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "derivative is a key concept in mathematics.",
+    "example": "\"derivative is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 405,
+    "word": "Differential Equation",
+    "letter": "D",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "differential equation is a key concept in mathematics.",
+    "example": "\"differential equation is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 406,
+    "word": "Dimension",
+    "letter": "D",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "dimension is a key concept in mathematics.",
+    "example": "\"dimension is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 407,
+    "word": "Discrete Mathematics",
+    "letter": "D",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "discrete mathematics is a key concept in mathematics.",
+    "example": "\"discrete mathematics is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 408,
+    "word": "Eigenvalue",
+    "letter": "E",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "eigenvalue is a key concept in mathematics.",
+    "example": "\"eigenvalue is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 409,
+    "word": "Euclidean",
+    "letter": "E",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "euclidean is a key concept in mathematics.",
+    "example": "\"euclidean is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 410,
+    "word": "Exponent",
+    "letter": "E",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "exponent is a key concept in mathematics.",
+    "example": "\"exponent is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 411,
+    "word": "Extrapolation",
+    "letter": "E",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "extrapolation is a key concept in mathematics.",
+    "example": "\"extrapolation is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 412,
+    "word": "Factorial",
+    "letter": "F",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "factorial is a key concept in mathematics.",
+    "example": "\"factorial is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 413,
+    "word": "Fractal",
+    "letter": "F",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "fractal is a key concept in mathematics.",
+    "example": "\"fractal is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 414,
+    "word": "Function",
+    "letter": "F",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "function is a key concept in mathematics.",
+    "example": "\"function is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 415,
+    "word": "Game Theory",
+    "letter": "G",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "game theory is a key concept in mathematics.",
+    "example": "\"game theory is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 416,
+    "word": "Geometric Series",
+    "letter": "G",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "geometric series is a key concept in mathematics.",
+    "example": "\"geometric series is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 417,
+    "word": "Gradient",
+    "letter": "G",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "gradient is a key concept in mathematics.",
+    "example": "\"gradient is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 418,
+    "word": "Graph Theory",
+    "letter": "G",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "graph theory is a key concept in mathematics.",
+    "example": "\"graph theory is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 419,
+    "word": "Greatest Common Divisor",
+    "letter": "G",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "greatest common divisor is a key concept in mathematics.",
+    "example": "\"greatest common divisor is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 420,
+    "word": "Imaginary Number",
+    "letter": "I",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "imaginary number is a key concept in mathematics.",
+    "example": "\"imaginary number is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 421,
+    "word": "Induction",
+    "letter": "I",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "induction is a key concept in mathematics.",
+    "example": "\"induction is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 422,
+    "word": "Infinity",
+    "letter": "I",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "infinity is a key concept in mathematics.",
+    "example": "\"infinity is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 423,
+    "word": "Integer",
+    "letter": "I",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "integer is a key concept in mathematics.",
+    "example": "\"integer is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 424,
+    "word": "Integral",
+    "letter": "I",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "integral is a key concept in mathematics.",
+    "example": "\"integral is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 425,
+    "word": "Interpolation",
+    "letter": "I",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "interpolation is a key concept in mathematics.",
+    "example": "\"interpolation is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 426,
+    "word": "Irrational Number",
+    "letter": "I",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "irrational number is a key concept in mathematics.",
+    "example": "\"irrational number is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 427,
+    "word": "Isomorphism",
+    "letter": "I",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "isomorphism is a key concept in mathematics.",
+    "example": "\"isomorphism is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 428,
+    "word": "Lemma",
+    "letter": "L",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "lemma is a key concept in mathematics.",
+    "example": "\"lemma is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 429,
+    "word": "Limit",
+    "letter": "L",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "limit is a key concept in mathematics.",
+    "example": "\"limit is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 430,
+    "word": "Logarithm",
+    "letter": "L",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "logarithm is a key concept in mathematics.",
+    "example": "\"logarithm is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 431,
+    "word": "Manifold",
+    "letter": "M",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "manifold is a key concept in mathematics.",
+    "example": "\"manifold is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 432,
+    "word": "Matrix",
+    "letter": "M",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "matrix is a key concept in mathematics.",
+    "example": "\"matrix is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 433,
+    "word": "Mean",
+    "letter": "M",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "mean is a key concept in mathematics.",
+    "example": "\"mean is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 434,
+    "word": "Median",
+    "letter": "M",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "median is a key concept in mathematics.",
+    "example": "\"median is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 435,
+    "word": "Mode",
+    "letter": "M",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "mode is a key concept in mathematics.",
+    "example": "\"mode is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 436,
+    "word": "Modulo",
+    "letter": "M",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "modulo is a key concept in mathematics.",
+    "example": "\"modulo is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 437,
+    "word": "Monte Carlo",
+    "letter": "M",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "monte carlo is a key concept in mathematics.",
+    "example": "\"monte carlo is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 438,
+    "word": "Natural Number",
+    "letter": "N",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "natural number is a key concept in mathematics.",
+    "example": "\"natural number is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 439,
+    "word": "Number Theory",
+    "letter": "N",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "number theory is a key concept in mathematics.",
+    "example": "\"number theory is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 440,
+    "word": "Ordinal",
+    "letter": "O",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "ordinal is a key concept in mathematics.",
+    "example": "\"ordinal is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 441,
+    "word": "Permutation",
+    "letter": "P",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "permutation is a key concept in mathematics.",
+    "example": "\"permutation is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 442,
+    "word": "Pi",
+    "letter": "P",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "pi is a key concept in mathematics.",
+    "example": "\"pi is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 443,
+    "word": "Prime Number",
+    "letter": "P",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "prime number is a key concept in mathematics.",
+    "example": "\"prime number is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 444,
+    "word": "Probability",
+    "letter": "P",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "probability is a key concept in mathematics.",
+    "example": "\"probability is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 445,
+    "word": "Proof",
+    "letter": "P",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "proof is a key concept in mathematics.",
+    "example": "\"proof is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 446,
+    "word": "Pythagorean",
+    "letter": "P",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "pythagorean is a key concept in mathematics.",
+    "example": "\"pythagorean is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 447,
+    "word": "Quadratic",
+    "letter": "Q",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "quadratic is a key concept in mathematics.",
+    "example": "\"quadratic is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 448,
+    "word": "Quaternion",
+    "letter": "Q",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "quaternion is a key concept in mathematics.",
+    "example": "\"quaternion is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 449,
+    "word": "Radix",
+    "letter": "R",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "radix is a key concept in mathematics.",
+    "example": "\"radix is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 450,
+    "word": "Rational Number",
+    "letter": "R",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "rational number is a key concept in mathematics.",
+    "example": "\"rational number is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 451,
+    "word": "Real Number",
+    "letter": "R",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "real number is a key concept in mathematics.",
+    "example": "\"real number is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 452,
+    "word": "Recursion",
+    "letter": "R",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "recursion is a key concept in mathematics.",
+    "example": "\"recursion is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 453,
+    "word": "Set Theory",
+    "letter": "S",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "set theory is a key concept in mathematics.",
+    "example": "\"set theory is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 454,
+    "word": "Sigma",
+    "letter": "S",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "sigma is a key concept in mathematics.",
+    "example": "\"sigma is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 455,
+    "word": "Statistics",
+    "letter": "S",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "statistics is a key concept in mathematics.",
+    "example": "\"statistics is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 456,
+    "word": "Tensor",
+    "letter": "T",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "tensor is a key concept in mathematics.",
+    "example": "\"tensor is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 457,
+    "word": "Theorem",
+    "letter": "T",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "theorem is a key concept in mathematics.",
+    "example": "\"theorem is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 458,
+    "word": "Topology",
+    "letter": "T",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "topology is a key concept in mathematics.",
+    "example": "\"topology is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 459,
+    "word": "Trigonometry",
+    "letter": "T",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "trigonometry is a key concept in mathematics.",
+    "example": "\"trigonometry is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "id": 460,
+    "word": "Vector",
+    "letter": "V",
+    "category": "Mathematics",
+    "phonetic": "",
+    "pos": "noun",
+    "short": "A term in mathematics.",
+    "full": "vector is a key concept in mathematics.",
+    "example": "\"vector is widely discussed in mathematics.\"",
+    "origin": "Etymology varies by usage.",
+    "tags": [
+      "Mathematics"
+    ]
+  }
+]
